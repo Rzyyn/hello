@@ -1,4 +1,4 @@
 # hello
 hi, i'm rzyy / rzyyn
 
-check [my website](https://rzyy.me)
+check out [my website](https://rzyy.me) <3
